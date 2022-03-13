@@ -1,0 +1,1 @@
+<strong>Copyright &copy; <?php echo date('Y'); ?> <a target='_BLANK' href="https://www.digitaljessies.com"> CMS Lokomedia Codeigniter</a>.</strong> All rights reserved.
